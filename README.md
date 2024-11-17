@@ -1,5 +1,5 @@
 # PSTeamDB
 
-Crack DB Yopiws
+Crack DB SanXcore
 
 Jangan berisik nanti ketahuan
